@@ -1,0 +1,83 @@
+2014-07-30 19:25:44 - PHP Notice:  Undefined offset: 0 in C:\wamp32\www\SynCMSTest\admin\view\template\tool\error_log.tpl on line 35
+2014-07-30 19:25:44 - PHP Notice:  Undefined offset: 1 in C:\wamp32\www\SynCMSTest\admin\view\template\tool\error_log.tpl on line 37
+2014-07-30 19:25:44 - PHP Notice:  Undefined offset: 1 in C:\wamp32\www\SynCMSTest\admin\view\template\tool\error_log.tpl on line 38
+2014-07-30 19:25:44 - PHP Notice:  Undefined offset: 1 in C:\wamp32\www\SynCMSTest\admin\view\template\tool\error_log.tpl on line 41
+2014-07-30 19:25:44 - PHP Notice:  Undefined offset: 1 in C:\wamp32\www\SynCMSTest\admin\view\template\tool\error_log.tpl on line 44
+2014-07-30 23:17:09 - PHP Notice:  Undefined variable: products in C:\xampp\htdocs\SynCMS-installer\catalog\view\theme\default\template\module\featured.tpl on line 5
+2014-07-30 23:17:09 - PHP Warning:  Invalid argument supplied for foreach() in C:\xampp\htdocs\SynCMS-installer\catalog\view\theme\default\template\module\featured.tpl on line 5
+2014-07-30 23:18:17 - PHP Notice:  Undefined variable: text_model in C:\xampp\htdocs\SynCMS-installer\catalog\view\theme\default\template\post\post.tpl on line 29
+2014-07-30 23:18:17 - PHP Notice:  Undefined variable: model in C:\xampp\htdocs\SynCMS-installer\catalog\view\theme\default\template\post\post.tpl on line 29
+2014-07-30 23:18:17 - PHP Notice:  Undefined variable: reward in C:\xampp\htdocs\SynCMS-installer\catalog\view\theme\default\template\post\post.tpl on line 30
+2014-07-30 23:18:17 - PHP Notice:  Undefined variable: text_stock in C:\xampp\htdocs\SynCMS-installer\catalog\view\theme\default\template\post\post.tpl on line 33
+2014-07-30 23:18:17 - PHP Notice:  Undefined variable: stock in C:\xampp\htdocs\SynCMS-installer\catalog\view\theme\default\template\post\post.tpl on line 33
+2014-07-30 23:18:17 - PHP Notice:  Undefined variable: price in C:\xampp\htdocs\SynCMS-installer\catalog\view\theme\default\template\post\post.tpl on line 34
+2014-07-30 23:18:17 - PHP Notice:  Undefined variable: profiles in C:\xampp\htdocs\SynCMS-installer\catalog\view\theme\default\template\post\post.tpl on line 58
+2014-07-30 23:18:17 - PHP Notice:  Undefined variable: options in C:\xampp\htdocs\SynCMS-installer\catalog\view\theme\default\template\post\post.tpl on line 75
+2014-07-30 23:18:17 - PHP Notice:  Undefined variable: text_qty in C:\xampp\htdocs\SynCMS-installer\catalog\view\theme\default\template\post\post.tpl on line 222
+2014-07-30 23:18:17 - PHP Notice:  Undefined variable: minimum in C:\xampp\htdocs\SynCMS-installer\catalog\view\theme\default\template\post\post.tpl on line 223
+2014-07-30 23:18:17 - PHP Notice:  Undefined variable: product_id in C:\xampp\htdocs\SynCMS-installer\catalog\view\theme\default\template\post\post.tpl on line 224
+2014-07-30 23:18:17 - PHP Notice:  Undefined variable: button_cart in C:\xampp\htdocs\SynCMS-installer\catalog\view\theme\default\template\post\post.tpl on line 226
+2014-07-30 23:18:17 - PHP Notice:  Undefined variable: product_id in C:\xampp\htdocs\SynCMS-installer\catalog\view\theme\default\template\post\post.tpl on line 228
+2014-07-30 23:18:17 - PHP Notice:  Undefined variable: button_wishlist in C:\xampp\htdocs\SynCMS-installer\catalog\view\theme\default\template\post\post.tpl on line 228
+2014-07-30 23:18:17 - PHP Notice:  Undefined variable: product_id in C:\xampp\htdocs\SynCMS-installer\catalog\view\theme\default\template\post\post.tpl on line 229
+2014-07-30 23:18:17 - PHP Notice:  Undefined variable: button_compare in C:\xampp\htdocs\SynCMS-installer\catalog\view\theme\default\template\post\post.tpl on line 229
+2014-07-30 23:18:17 - PHP Notice:  Undefined variable: minimum in C:\xampp\htdocs\SynCMS-installer\catalog\view\theme\default\template\post\post.tpl on line 231
+2014-07-30 23:18:17 - PHP Notice:  Undefined variable: products in C:\xampp\htdocs\SynCMS-installer\catalog\view\theme\default\template\post\post.tpl on line 254
+2014-07-30 23:18:17 - PHP Notice:  Undefined variable: products in C:\xampp\htdocs\SynCMS-installer\catalog\view\theme\default\template\post\post.tpl on line 314
+2014-07-30 23:18:17 - PHP Notice:  Undefined variable: options in C:\xampp\htdocs\SynCMS-installer\catalog\view\theme\default\template\post\post.tpl on line 416
+2014-07-30 23:18:17 - PHP Notice:  Undefined variable: product_id in C:\xampp\htdocs\SynCMS-installer\catalog\view\theme\default\template\post\post.tpl on line 463
+2014-07-30 23:18:17 - PHP Notice:  Undefined variable: product_id in C:\xampp\htdocs\SynCMS-installer\catalog\view\theme\default\template\post\post.tpl on line 467
+2014-07-30 23:18:55 - PHP Notice:  Undefined variable: text_model in C:\xampp\htdocs\SynCMS-installer\catalog\view\theme\default\template\post\post.tpl on line 29
+2014-07-30 23:18:55 - PHP Notice:  Undefined variable: model in C:\xampp\htdocs\SynCMS-installer\catalog\view\theme\default\template\post\post.tpl on line 29
+2014-07-30 23:18:55 - PHP Notice:  Undefined variable: reward in C:\xampp\htdocs\SynCMS-installer\catalog\view\theme\default\template\post\post.tpl on line 30
+2014-07-30 23:18:55 - PHP Notice:  Undefined variable: text_stock in C:\xampp\htdocs\SynCMS-installer\catalog\view\theme\default\template\post\post.tpl on line 33
+2014-07-30 23:18:55 - PHP Notice:  Undefined variable: stock in C:\xampp\htdocs\SynCMS-installer\catalog\view\theme\default\template\post\post.tpl on line 33
+2014-07-30 23:18:55 - PHP Notice:  Undefined variable: price in C:\xampp\htdocs\SynCMS-installer\catalog\view\theme\default\template\post\post.tpl on line 34
+2014-07-30 23:18:55 - PHP Notice:  Undefined variable: profiles in C:\xampp\htdocs\SynCMS-installer\catalog\view\theme\default\template\post\post.tpl on line 58
+2014-07-30 23:18:55 - PHP Notice:  Undefined variable: options in C:\xampp\htdocs\SynCMS-installer\catalog\view\theme\default\template\post\post.tpl on line 75
+2014-07-30 23:18:55 - PHP Notice:  Undefined variable: text_qty in C:\xampp\htdocs\SynCMS-installer\catalog\view\theme\default\template\post\post.tpl on line 222
+2014-07-30 23:18:55 - PHP Notice:  Undefined variable: minimum in C:\xampp\htdocs\SynCMS-installer\catalog\view\theme\default\template\post\post.tpl on line 223
+2014-07-30 23:18:55 - PHP Notice:  Undefined variable: product_id in C:\xampp\htdocs\SynCMS-installer\catalog\view\theme\default\template\post\post.tpl on line 224
+2014-07-30 23:18:55 - PHP Notice:  Undefined variable: button_cart in C:\xampp\htdocs\SynCMS-installer\catalog\view\theme\default\template\post\post.tpl on line 226
+2014-07-30 23:18:55 - PHP Notice:  Undefined variable: product_id in C:\xampp\htdocs\SynCMS-installer\catalog\view\theme\default\template\post\post.tpl on line 228
+2014-07-30 23:18:55 - PHP Notice:  Undefined variable: button_wishlist in C:\xampp\htdocs\SynCMS-installer\catalog\view\theme\default\template\post\post.tpl on line 228
+2014-07-30 23:18:55 - PHP Notice:  Undefined variable: product_id in C:\xampp\htdocs\SynCMS-installer\catalog\view\theme\default\template\post\post.tpl on line 229
+2014-07-30 23:18:55 - PHP Notice:  Undefined variable: button_compare in C:\xampp\htdocs\SynCMS-installer\catalog\view\theme\default\template\post\post.tpl on line 229
+2014-07-30 23:18:55 - PHP Notice:  Undefined variable: minimum in C:\xampp\htdocs\SynCMS-installer\catalog\view\theme\default\template\post\post.tpl on line 231
+2014-07-30 23:18:55 - PHP Notice:  Undefined variable: products in C:\xampp\htdocs\SynCMS-installer\catalog\view\theme\default\template\post\post.tpl on line 254
+2014-07-30 23:18:55 - PHP Notice:  Undefined variable: products in C:\xampp\htdocs\SynCMS-installer\catalog\view\theme\default\template\post\post.tpl on line 314
+2014-07-30 23:18:55 - PHP Notice:  Undefined variable: options in C:\xampp\htdocs\SynCMS-installer\catalog\view\theme\default\template\post\post.tpl on line 416
+2014-07-30 23:18:55 - PHP Notice:  Undefined variable: product_id in C:\xampp\htdocs\SynCMS-installer\catalog\view\theme\default\template\post\post.tpl on line 463
+2014-07-30 23:18:55 - PHP Notice:  Undefined variable: product_id in C:\xampp\htdocs\SynCMS-installer\catalog\view\theme\default\template\post\post.tpl on line 467
+2014-07-31 21:41:52 - PHP Notice:  Undefined index: model in C:\xampp\htdocs\SynCMS-installer\admin\controller\report\post_viewed.php on line 58
+2014-07-31 21:46:05 - PHP Notice:  Undefined variable: products in C:\xampp\htdocs\SynCMS-installer\catalog\view\theme\default\template\module\featured.tpl on line 5
+2014-07-31 21:46:05 - PHP Warning:  Invalid argument supplied for foreach() in C:\xampp\htdocs\SynCMS-installer\catalog\view\theme\default\template\module\featured.tpl on line 5
+2014-07-31 21:49:20 - PHP Notice:  Undefined variable: products in C:\xampp\htdocs\SynCMS-installer\catalog\view\theme\default\template\module\featured.tpl on line 5
+2014-07-31 21:49:20 - PHP Warning:  Invalid argument supplied for foreach() in C:\xampp\htdocs\SynCMS-installer\catalog\view\theme\default\template\module\featured.tpl on line 5
+2014-07-31 21:49:36 - PHP Notice:  Undefined variable: products in C:\xampp\htdocs\SynCMS-installer\catalog\view\theme\default\template\module\featured.tpl on line 5
+2014-07-31 21:49:36 - PHP Warning:  Invalid argument supplied for foreach() in C:\xampp\htdocs\SynCMS-installer\catalog\view\theme\default\template\module\featured.tpl on line 5
+2014-07-31 21:51:09 - PHP Notice:  Undefined variable: products in C:\xampp\htdocs\SynCMS-installer\catalog\view\theme\default\template\module\featured.tpl on line 5
+2014-07-31 21:51:09 - PHP Warning:  Invalid argument supplied for foreach() in C:\xampp\htdocs\SynCMS-installer\catalog\view\theme\default\template\module\featured.tpl on line 5
+2014-07-31 21:51:27 - PHP Notice:  Undefined variable: products in C:\xampp\htdocs\SynCMS-installer\catalog\view\theme\default\template\module\featured.tpl on line 5
+2014-07-31 21:51:27 - PHP Warning:  Invalid argument supplied for foreach() in C:\xampp\htdocs\SynCMS-installer\catalog\view\theme\default\template\module\featured.tpl on line 5
+2014-07-31 21:51:32 - PHP Notice:  Undefined variable: products in C:\xampp\htdocs\SynCMS-installer\catalog\view\theme\default\template\module\featured.tpl on line 5
+2014-07-31 21:51:32 - PHP Warning:  Invalid argument supplied for foreach() in C:\xampp\htdocs\SynCMS-installer\catalog\view\theme\default\template\module\featured.tpl on line 5
+2014-07-31 22:29:59 - PHP Notice:  Undefined variable: products in C:\xampp\htdocs\SynCMS-installer\catalog\view\theme\default\template\module\featured.tpl on line 5
+2014-07-31 22:29:59 - PHP Warning:  Invalid argument supplied for foreach() in C:\xampp\htdocs\SynCMS-installer\catalog\view\theme\default\template\module\featured.tpl on line 5
+2014-07-31 22:30:10 - PHP Notice:  Undefined variable: products in C:\xampp\htdocs\SynCMS-installer\catalog\view\theme\default\template\module\featured.tpl on line 5
+2014-07-31 22:30:10 - PHP Warning:  Invalid argument supplied for foreach() in C:\xampp\htdocs\SynCMS-installer\catalog\view\theme\default\template\module\featured.tpl on line 5
+2014-07-31 22:54:22 - PHP Notice:  Undefined variable: products in C:\xampp\htdocs\SynCMS-installer\catalog\view\theme\default\template\module\featured.tpl on line 5
+2014-07-31 22:54:22 - PHP Warning:  Invalid argument supplied for foreach() in C:\xampp\htdocs\SynCMS-installer\catalog\view\theme\default\template\module\featured.tpl on line 5
+2014-07-31 22:54:22 - PHP Notice:  Error: Could not load language module/site! in C:\xampp\htdocs\SynCMS-installer\system\library\language.php on line 39
+2014-07-31 22:54:22 - PHP Notice:  Error: Could not load template C:\xampp\htdocs\SynCMS-installer/catalog/view/theme/default/template/module/site.tpl! in C:\xampp\htdocs\SynCMS-installer\system\engine\controller.php on line 90
+2014-08-05 16:21:13 - PHP Notice:  Undefined variable: products in C:\xampp\htdocs\SynCMS-installer\catalog\view\theme\default\template\module\featured.tpl on line 5
+2014-08-05 16:21:13 - PHP Warning:  Invalid argument supplied for foreach() in C:\xampp\htdocs\SynCMS-installer\catalog\view\theme\default\template\module\featured.tpl on line 5
+2014-08-05 16:21:41 - PHP Notice:  Undefined variable: products in C:\xampp\htdocs\SynCMS-installer\catalog\view\theme\default\template\module\featured.tpl on line 5
+2014-08-05 16:21:41 - PHP Warning:  Invalid argument supplied for foreach() in C:\xampp\htdocs\SynCMS-installer\catalog\view\theme\default\template\module\featured.tpl on line 5
+2014-08-05 17:20:58 - PHP Notice:  Undefined variable: products in C:\xampp\htdocs\SynCMS-installer\catalog\view\theme\default\template\module\featured.tpl on line 5
+2014-08-05 17:20:58 - PHP Warning:  Invalid argument supplied for foreach() in C:\xampp\htdocs\SynCMS-installer\catalog\view\theme\default\template\module\featured.tpl on line 5
+2014-08-12 17:40:26 - PHP Notice:  Undefined variable: products in C:\xampp\htdocs\SynCMS-installer\catalog\view\theme\default\template\module\featured.tpl on line 5
+2014-08-12 17:40:26 - PHP Warning:  Invalid argument supplied for foreach() in C:\xampp\htdocs\SynCMS-installer\catalog\view\theme\default\template\module\featured.tpl on line 5
+2014-08-12 17:40:26 - PHP Warning:  Invalid argument supplied for foreach() in C:\xampp\htdocs\SynCMS-installer\catalog\view\theme\default\template\module\featured.tpl on line 5
+2014-08-15 17:03:48 - PHP Notice:  Undefined variable: products in C:\xampp\htdocs\SynCMS-installer\catalog\view\theme\default\template\module\featured.tpl on line 5
+2014-08-15 17:03:48 - PHP Warning:  Invalid argument supplied for foreach() in C:\xampp\htdocs\SynCMS-installer\catalog\view\theme\default\template\module\featured.tpl on line 5
